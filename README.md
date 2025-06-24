@@ -15,7 +15,7 @@ A modern weather forecast application built with **React** and **OpenWeatherMap 
 - 🌡️ Display temperature in °C
 - 💧 Shows humidity and wind speed
 - 🌦️ Weather condition icons
-- 🔄 Auto-fetch weather on load (default city: Akot)
+- 🔄 Auto-fetch weather on load 
 
 ---
 
