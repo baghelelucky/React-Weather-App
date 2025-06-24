@@ -6,7 +6,7 @@ A modern weather forecast application built with **React** and **OpenWeatherMap 
 
 
 ## 📸 Screenshot
-![alt text](<img width="955" alt="web-page" src="https://github.com/user-attachments/assets/094732c4-b707-445c-8b40-5df84ed1ff4c" />)
+![alt text](web-page.png)
 ---
 
 ## 🚀 Features
