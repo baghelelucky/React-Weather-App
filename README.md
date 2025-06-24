@@ -4,15 +4,9 @@ A modern weather forecast application built with **React** and **OpenWeatherMap 
 
 ---
 
-## 🔗 Live Demo
-
-**[👉 Click here to view the live app](https://your-deployment-link.vercel.app/)**  
-*(Replace with your Vercel/Netlify link)*
-
----
 
 ## 📸 Screenshot
-![alt text](web-page-1.png)
+![alt text](<img width="955" alt="web-page" src="https://github.com/user-attachments/assets/094732c4-b707-445c-8b40-5df84ed1ff4c" />)
 ---
 
 ## 🚀 Features
@@ -36,12 +30,4 @@ A modern weather forecast application built with **React** and **OpenWeatherMap 
 ## 📦 Setup & Run Locally
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-
-# 2. Install dependencies
-npm install
-
-# 3. Create a .env file
-touch .env
+# npm run dev
